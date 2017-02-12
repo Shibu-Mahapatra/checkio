@@ -1,2 +1,0 @@
-# checkio
-Solutions to checkio
